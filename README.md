@@ -4,7 +4,7 @@
 - 📫 How to reach me : me@besjoncifliku.de
 - 🎮 Game Developer 
 
-'''
+```javascript
 Coffe coffe = new Coffe();
 
 if (coffe.isEmpty()) {
@@ -14,7 +14,7 @@ if (coffe.isEmpty()) {
 }
 
 // I am a software engineer 
-'''
+```
 
 <!---
 besjoncifliku/besjoncifliku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
