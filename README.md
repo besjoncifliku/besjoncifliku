@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @besjoncifliku
-- 👀 I’m interested in Technology, Machine Learning, AI and Cyber Security
-- 🌱 I’m currently learning Data Mining
+- 👀 I’m interested in Machine Learning, AI and Cyber Security
 - 📫 How to reach me : me@besjoncifliku.de
 - 🎮 Game Developer 
 
