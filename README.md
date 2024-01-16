@@ -8,9 +8,9 @@ Coffe coffe = new Coffe();
 
 if (coffe.isEmpty()) {
   coffe.refill();
-} else {
-  coffe.drink();
 }
+
+coffe.drink();
 
 // Software Engineer 
 ```
