@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @besjoncifliku
 - 👀 I’m interested in Machine Learning, AI and Cyber Security
 - 📫 How to reach me : besjoncifliku@gmx.de
-- 🎮 Software Developer 
+- 🎮 Software Engineer 
 
 ```javascript
 Coffe coffe = new Coffe();
