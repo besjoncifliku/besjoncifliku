@@ -25,6 +25,11 @@ coffe.drink();
 
 > I probably know more techonologies <i>(as web-dev is going crazy now</i> 😂), let's check which one of this is a <b>Pokemon</b>? These are the ones I am most familiar with 🔥.
 
+
+<details>
+  <summary><b>Explore myTech</b></summary>
+</br>
+  
 | **Tier** | **TechStack** |
 | - | - |
 **Frontend** | [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=angular&logoColor=FFFFFF)](https://angularjs.org/) [![D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3dotjs&logoColor=FFFFFF)](https://d3js.org/) [![Storybook](https://img.shields.io/badge/Storybook-pink)](https://storybook.js.org/)</br>[![CSS3](https://img.shields.io/static/v1?label=&message=CSS&color=61DAFB&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=F7DF1E&logo=javascript&logoColor=black)](https://www.javascript.com/) [![SASS](https://img.shields.io/static/v1?label=&message=Sass&color=CC6699&logo=sass&logoColor=white)](https://sass-lang.com/) [![AngularJS](https://img.shields.io/static/v1?label=&message=AngularJS&color=E23237&logo=angularjs&logoColor=white)]()  [![Next JS](https://img.shields.io/static/v1?label=&message=NextJS&color=111111&logo=next.js&logoColor=white)]()
@@ -38,6 +43,9 @@ coffe.drink();
 **ML & Data Science** |  [![PyTorch](https://img.shields.io/static/v1?label=&message=PyTorch&color=23EE4C2C=PyTorch&logoColor=FFFFFF)](https://pytorch.org/) [![Tensorflow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF6F00&logo=tensorflow&logoColor=FFFFFF)](https://www.tensorflow.org/) [![Apache Kafka](https://img.shields.io/static/v1?label=&message=Apache%20Kafka&color=000&logo=apachekafka&logoColor=FFFFFF)](https://kafka.apache.org/) [![Apache Spark](https://img.shields.io/static/v1?label=&message=Apache%20Spark&color=FDEE21&logo=apachespark&logoColor=FFFFFF)](https://spark.apache.org/)
 **OS** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown) [![Gulp](https://img.shields.io/static/v1?label=&message=GULP&color=23CF4647&logo=gulp&logoColor=FFFFFF)](https://gulpjs.com/)
 **Fav Editors** | [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![WebStorm](https://img.shields.io/static/v1?label=&message=WebStorm&color=000000&logo=WebStorm&logoColor=FFFFFF)](https://www.jetbrains.com/webstorm/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
+
+</details>
+
 
 
 <!---
