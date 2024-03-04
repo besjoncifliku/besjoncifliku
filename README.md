@@ -13,9 +13,9 @@ if (coffe.isEmpty()) {
   coffe.refill();
 }
 
+// TODO
 coffe.drink();
 
-// TODO
 ```
 
 </br>
@@ -23,7 +23,7 @@ coffe.drink();
 <!-- Tech Stack -->  
 <b>🛠️ Tech Stack</b>
 
-> I probably know more techonologies <i>(as web-dev is going crazy now</i> 😂), let's check which one of this is a <b>Pokemon</b>? These are the ones I am most familiar with 🔥.
+> As <i>(web-dev is getting crazy now</i> 😂), let's find out which one is a <b>Pokemon</b>? These are the ones I am most familiar with 🔥.
 
 
 <details>
