@@ -23,11 +23,16 @@ coffe.drink();
 <!-- Tech Stack -->  
 <b>🛠️ Tech Stack</b>
 
-> As <i>(web-dev is getting crazy now</i> 😂), let's find out which one is a <b>Pokemon</b>? These are the ones I am most familiar with 🔥.
+These are the ones I am most familiar with 🔥.
 
+[![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=angular&logoColor=FFFFFF)](https://angularjs.org/)  [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![NestJS](https://img.shields.io/static/v1?label=&message=NestJS&color=C21325&logo=nestjs&logoColor=FFFFFF)](https://nestjs.com/) [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://azure.microsoft.com/) [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=4EA94B&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com)  [![Redis](https://img.shields.io/static/v1?label=&message=Redis&color=DD0031&logo=redis&logoColor=FFFFFF)](https://redis.io/)  [![ElasticSearch](https://img.shields.io/static/v1?label=&message=ElasticSearch&color=005571&logo=elasticsearch&logoColor=FFFFFF)](https://azure.microsoft.com/)
+
+</br>
+
+> As <i>(web-dev is getting crazy now</i> 😂), let's find out which one is a <b>Pokemon</b>?
 
 <details>
-  <summary><b>Explore myTech</b></summary>
+  <summary> <b>Explore Details >_myTech</b> </summary>
 </br>
   
 | **Tier** | **TechStack** |
