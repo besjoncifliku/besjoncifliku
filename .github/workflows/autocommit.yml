@@ -41,4 +41,4 @@ jobs:
         with:
           directory: "."
           branch: "master"
-          github_token: ${{ secrets.AUTH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
