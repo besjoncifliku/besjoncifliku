@@ -1,0 +1,44 @@
+# This workflow - Git on AutoPilot - autocommit on my main repo
+
+name: Git-AutoPilot
+
+# Controls when the workflow will run
+on:
+  push:
+    branches: [ "master" ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  schedule:
+  - cron: "59 07 * * 1,2,3,4,5,6"
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  autopilot:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+        with:
+         persist-credentials: false
+         fetch-depth: 0
+         
+      # Runs a single command using the runners shell - commit a file with latest date
+      - name: Run an auto-commit script
+        run: |
+          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
+          echo $d > AUTOPILOT
+          git config --local user.email "besjoncifliku@gmx.de"
+          git config --local user.name "besjoncifliku"
+          git add -A
+          git commit -m "[bot 🤖] Auto Commit - another brick in the wall..."
+
+      # Runs a set of commands using the runners shell
+      - name: Run GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          directory: "."
+          branch: "master"
+          github_token: ${{ secrets.AUTH_TOKEN }}
