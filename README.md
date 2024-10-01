@@ -29,7 +29,7 @@ These are the ones I am most familiar with 🔥.
 
 </br>
 
-> As <i>(web-dev is getting wild these days</i> 😂), can you spot which one is a <b>Pokemon</b>?
+> As <i>web-dev is getting wild these days</i> 😂, can you spot which one is a <b>Pokemon</b>?
 
 <details>
   <summary> <b>Explore Details >_myTech</b> </summary>
